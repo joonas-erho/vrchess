@@ -58,3 +58,11 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# Do not commit added packages
+/Assets/Free*Low*Poly*Chess*Set/**
+/Assets/Oculus/**
+/Assets/StreamingAssets/**
+/Assets/ThirdParty/**
+/Assets/vg_tmp/**
+/Assets/XR/**
+/Assets/XRI/**
