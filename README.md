@@ -19,5 +19,5 @@ This game is a prototype for the second cycle of the course. The special require
 We created a game where the original goal was to battle a chess AI in VR, but due to time limitations, we never got to create an AI opponent. The game is currently good for just playing around with the chess pieces. However, the creepy ambience we tried to go for succeeded very well. The game is also fully functional if played with an Oculus Quest.
 
 Screenshots:
-![image](https://user-images.githubusercontent.com/63057682/214145995-91061d5e-1e9d-46e5-9e6e-c63fd389d3b0.png)
+![image](https://user-images.githubusercontent.com/63057682/214147708-4dfa990b-f3ad-4c99-9b66-0168a5e069b1.png)
 ![image](https://user-images.githubusercontent.com/63057682/214146040-51c99d6f-26db-497e-89a1-016d812ff10e.png)
